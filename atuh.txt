@@ -1,0 +1,7 @@
+================= vendor credentials ===============
+vendor email : rizwan.cmemove@gmail.com
+vendor password : 12345
+
+================= user credentials ===============
+email id : alam.sndigitech@gmail.com
+password : 123456

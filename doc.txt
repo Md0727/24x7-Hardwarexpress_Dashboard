@@ -1,0 +1,32 @@
+<------------------ Moving Taxing github repo website url --------------->
+
+rizwan git repo website url : https://github.com/MovingTexi/website.git
+
+rizwant git repo panel url : https://github.com/MovingTexi/panel.git
+
+
+chabfe
+Alam git repo website url : https://github.com/sn0727/Moving_Taxi.git
+
+Alam git repo panel url : https://github.com/sn0727/CME_Dashboard.git
+
+
+
+=================== cme move super admin ===================
+{
+    "email":"24x7hardwarexpress@gmail.com",
+    "password":"12345678"
+}
+=================== cme move super admin ===================
+
+
+============== User auth website  ===========
+email id : rizwan.sndigitech@gmail.com 
+password : 12345
+
+email id : alam.sndigitech@gmail.com 
+password : 123456
+
+============== User auth website ===========
+
+<------------------ Moving Taxing github repo website url --------------->

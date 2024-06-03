@@ -1,0 +1,69 @@
+/* Override Safari Dark Mode Styles */
+@media (prefers-color-scheme: dark) {
+    body {
+      background-color: #ffffff;
+      /* Light mode background color */
+      color: #000000;
+      /* Light mode text color */
+    }
+  
+    .menu {
+      background-color: #fff !important;
+    }
+  
+    .menu li a {
+      color: #000 !important;
+    }
+    .menu li a span.badge {
+      background-color: #fff;
+      color: #000;
+    }
+    .menu li a[aria-current="page"] {
+      color: #fff !important;
+    }
+    .menu>li:hover a span.badge {
+      color: #000 !important;
+    }
+  
+    table,
+    th,
+    td,
+    tbody,
+    thead {
+      background-color: #fff;
+    }
+  
+    *,
+    ::before,
+    ::after {
+      box-sizing: border-box;
+      border-width: 0;
+      border-style: solid;
+      border-color: #e5e7eb;
+    }
+  
+    .bg-base-100 {
+      background-color: #fff !important
+    }
+  
+    .table :where(thead, tbody) :where(tr:not(:last-child)),
+    .table :where(thead, tbody) :where(tr:first-child:last-child) {
+      border-bottom-width: 1px;
+      --tw-border-opacity: 1;
+      /* border-bottom-color: var(--fallback-b2, oklch(var(--b2)))/var(--tw-border-opacity))); */
+      border-bottom-color: #efefef;
+    }
+    .stat, .stats  {
+      background-color: #fff !important;
+    } 
+    input.input {
+      background-color: #fff !important;
+    }
+    .setCustomeColor {
+      background-color: #fff !important;
+    }
+  
+    /* input {
+      background-color: #fff !important;
+    } */
+  }
